@@ -33,7 +33,10 @@ header {
     z-index: 1000;
   }
   
-
+.login-btn {
+  display: flex;
+  justify-content: flex-end;
+}
 
   
   /********** top wrapper **********/
@@ -43,6 +46,12 @@ header {
     color: white;
     background-image: url(img-box/prog8-copy-back-img.png);
     background-size: cover;
+  }
+
+  .top-wrapper h1 {
+    font-size: 45px;
+    opacity:0.7
+    
   }
 
 
