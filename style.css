@@ -45,6 +45,11 @@ header {
     background-size: cover;
   }
 
+  .top-wrapper h1 {
+    font-size: 45px;
+    font-weight: bold;
+  }
+
   /********* free section・フリーセクション *********/
 
 .free-text {
