@@ -78,6 +78,7 @@ header {
     text-align: center;
     color: white;
     background-image: url(prog8-copy-back-img);
+    background-size: cover;
   }
 
 
