@@ -36,6 +36,7 @@ header {
   .header-main {
     display: flex;
 
+  
   /********** top wrapper **********/
   .top-wrapper {
     padding: 180px  0 100px 0;
@@ -44,10 +45,6 @@ header {
     background-image: url(prog8-copy-back-img);
     background-size: cover;
   }
-
-
-  
-
 
   /********* free section・フリーセクション *********/
 .free-section-01 .container,
