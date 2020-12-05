@@ -41,13 +41,8 @@ header {
     padding: 180px  0 100px 0;
     text-align: center;
     color: white;
-    background-image:url(img-box/prog8-copy-back-img.png);
+    background-image: url(img-box/prog8-copy-back-img.png);
     background-size: cover;
-  }
-
-  .top-wrapper h1 {
-    font-size: 45px;
-    font-weight: bold;
   }
 
   /********* free section・フリーセクション *********/
