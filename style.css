@@ -38,10 +38,9 @@ header {
   
   /********** top wrapper **********/
   .top-wrapper {
-    padding: 180px  0 100px 0;
     text-align: center;
     color: white;
-    background-image: url(img-box/prog8-copy-back-img.png);
+    background-image: url(prog8-copy-back-img);
     background-size: cover;
   }
 
