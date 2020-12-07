@@ -33,14 +33,10 @@ header {
     z-index: 1000;
   }
   
-.login-btn {
-  display: flex;
-  justify-content: flex-end;
-  background-color: rgba(255, 255, 255, 0.3);
-  transition: all 0.5s;
-}
+
 
 .login-btn a {
+  padding: 0 25px;
   color: white;
 }
 
