@@ -57,14 +57,23 @@ header {
   /********** second wrapper **********/
   .lesson-icons {
     display: flex;
+    
   }
 
   .lesson {
     flex: auto;
   }
 
+  .sw-head {
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+  }
+
   .container h2 {
     text-align: center;
+    font-size: 30px;
+    font-weight: normal;
   }
 
   /********** third wrapper **********/
