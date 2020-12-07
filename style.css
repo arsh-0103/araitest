@@ -63,6 +63,10 @@ header {
     flex: auto;
   }
 
+  .container h2 {
+    text-align: center;
+  }
+
   /********** third wrapper **********/
 
 
