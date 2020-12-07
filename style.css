@@ -54,6 +54,19 @@ header {
     
   }
 
+  /********** second wrapper **********/
+  .lesson-icons {
+    display: flex;
+  }
+
+  .lesson {
+    flex: auto;
+  }
+
+  /********** third wrapper **********/
+
+
+  /********** footer **********/
 
   /********* free section・フリーセクション *********/
 
