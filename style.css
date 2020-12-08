@@ -31,20 +31,24 @@ header {
     opacity:0.9;
     top: 0;
     z-index: 1000;
-  }
-  
+}
+
+.h-container {
+  display: flex;
+}  
+
 
 
 .login-btn a {
   padding: 0 25px;
+  display: block;
   color: white;
 }
 
-.logo-mark {
-  margin-top: 20px;
-}
+
 
 .header-logo {
+  margin-top: 20px;
   width: 124px;
 }
   
