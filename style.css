@@ -64,32 +64,8 @@ header {
   }
 
   /********** second wrapper **********/
-  .lesson-icons {
-    display: flex;
-    justify-content: space-around;
-  }
-  
-  .lesson {
-  
-    text-align: center;
-  }
 
-
-  .sw-head {
-    padding-top: 80px;
-    padding-bottom: 50px;
-
-  }
-
-  .container h2 {
-    text-align: center;
-    font-size: 30px;
-    font-weight: normal;
-  }
-
-  /********** third wrapper **********/
-
-  .container {
+  .l-container {
     display: flex;
     justify-content: space-around ;
   }
@@ -107,5 +83,22 @@ header {
     font-size: 13px;
     color: #b3aeb5;
   }
+
+
+  .sw-head {
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+  }
+
+  .container h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
+  }
+
+  /********** third wrapper **********/
+
+
 
   
