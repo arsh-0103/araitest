@@ -69,6 +69,26 @@ body {
     
   }
 
+  .btn {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+  }
+
+  .asign {
+    background-color: #239b76;
+  }
+
+  .facebook {
+    background-color: #3b5998;
+  }
+
+  .twitter {
+    background-color: #55acee;
+  }
+
   /********** second wrapper **********/
 
   .l-container {
@@ -105,6 +125,8 @@ body {
 
   /********** third wrapper **********/
 
-
+  .third-wrapper {
+    text-align: center;
+  }
 
   
