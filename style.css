@@ -53,6 +53,11 @@ body {
 
   .login-btn {
     background-color: rgba(255, 255, 255, 0.3);
+    transition: all 0.5s;
+  }
+
+  .login-btn:hover {
+      background-color: rgba(255, 255, 255, 0.5);
   }
 
   .login-btn a {
