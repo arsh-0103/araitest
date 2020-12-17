@@ -167,6 +167,12 @@ body {
 
   .third-wrapper {
     text-align: center;
+    padding-bottom: 80px;
+  }
+
+  .midashi {
+    margin-top: 50px;
+    margin-bottom: 80px;
   }
 
   .third-wrapper h2{
@@ -180,6 +186,18 @@ body {
     font-weight: normal;
     font-size: 1.17em;
   }
+
+  .kaihatsu-btn {
+    padding: 15px 40px;
+    background-color: #5dca88;
+    cursor: pointer;
+    box-shadow: 0 7px #1a7940;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+  }
+
 
    /********** third wrapper **********/
 
