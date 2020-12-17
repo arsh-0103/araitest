@@ -169,4 +169,13 @@ body {
     font-size: 1.17em;
   }
 
-  
+   /********** third wrapper **********/
+
+   footer img {
+     width: 124px;
+   }
+
+   footer p {
+    color: #b3aeb5;
+    font-size: 12px;
+  }
