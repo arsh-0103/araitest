@@ -52,6 +52,7 @@ body {
     margin-top: 20px;
   }
 
+
   .login-btn {
     background-color: rgba(255, 255, 255, 0.3);
     transition: all 0.5s;
@@ -120,15 +121,14 @@ body {
     background-color: #55acee;
   }
 
+
   /********** second wrapper **********/
 
   .s-container {
-    height: 500px;
     padding-bottom: 80px;
   }
   .l-container {
     display: flex;
-    justify-content: space-around ;
   }
 
   .item {
@@ -176,7 +176,6 @@ body {
 
   .third-wrapper {
     text-align: center;
-    padding-bottom: 80px;
   }
 
   .midashi {

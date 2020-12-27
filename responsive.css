@@ -1,0 +1,114 @@
+@media screen and (max-width: 1024px) {
+
+
+    .h-container {
+        width: 95%;
+    }
+
+    .h-container h1 {
+        font-size: 32px;
+    }
+
+    .top-wrapper p {
+        margin:0 30px 0 30px;
+    }
+
+    .l-container {
+        flex-wrap: wrap;
+    }
+
+    .item {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+    .third-wrapper {
+        margin-top: 30px;
+    }
+
+    footer {
+        text-align: center;
+      }
+}
+
+@media screen and (max-width: 420px) {
+
+    header {
+        height: 40px;
+      }
+    header a {
+        font-size: 12px;
+    }
+
+
+    .logo {
+        width: 80px;
+        margin-top: 15px;
+      }
+
+    .login-btn a {
+        line-height: 40px;
+      }
+
+
+
+    .h-container {
+        width: 95%;
+    }
+
+    .top-wrapper {
+        padding: 100px 0 100px 0;
+    }
+
+    .top-wrapper p {
+        font-size: 13px;
+        line-height: 20px;
+        margin:0 30px 0 30px;
+    }
+
+    .btn {
+        width: 80%;
+        flex-wrap: wrap;
+        margin: 5px auto;
+    }
+
+    .container h1 {
+        font-size: 24px;
+        text-align: left;
+        margin-left: 15px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+
+
+    .l-container {
+        flex-wrap: wrap;
+    }
+
+    .item {
+        width: 100%;
+    }
+
+    .third-wrapper {
+        margin: 30px 50px;
+    }
+
+    .midashi {
+        margin:0 0 30px 0;
+    }
+
+    .midashi h2 {
+        font-size: 16px;
+    }
+
+    .midashi h3 {
+        font-size: 12px;
+    }
+
+    footer {
+        text-align: center;
+      }
+
+
+}
+
